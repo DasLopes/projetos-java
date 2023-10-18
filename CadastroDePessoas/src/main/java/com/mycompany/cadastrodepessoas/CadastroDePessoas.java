@@ -66,11 +66,6 @@ public class CadastroDePessoas extends JFrame {
             public void actionPerformed(ActionEvent e) {
                 resultadoTextArea.setText("");
                 registros.clear();
-                /*
-                for (String registro : registros) {
-                    resultadoTextArea.append(registros + "\n");
-                } 
-                */
             }
         });
 
